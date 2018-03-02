@@ -1,1 +1,2 @@
 how to merge git branch?
+version 0.3
